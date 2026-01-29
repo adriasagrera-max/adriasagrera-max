@@ -1,6 +1,20 @@
 # ¡Hola! Soy Adrià Sagrera 👋
 
-Encuentro patrones donde otros ven ruido. Soy Economista especializado en Business Intelligence con una misión clara: convertir datos en historias con impacto. Desarrollo el ciclo completo, desde los procesos (ETL) y el análisis exploratorio (EDA) hasta el modelado estadístico y la visualización avanzada. Siempre con un único objetivo: que los datos hablen el idioma que el negocio necesita entender.
+**Economista | Especialista en Business Intelligence**  
+*Convierto el ruido de los datos en historias con impacto estratégico.*
+
+---
+
+### 🚀 Mi enfoque: El ciclo completo del dato (End-to-End)
+
+| Etapa | ¿Qué hago? |
+| :--- | :--- |
+| **🏗️ Procesos (ETL)** | Extraigo, limpio y transformo datos crudos en activos de valor. |
+| **🔍 Descubrimiento (EDA)** | Realizo análisis exploratorios para encontrar tendencias y anomalías. |
+| **🤖 Modelado** | Implemento modelos estadísticos y predictivos para conocer relaciones y anticipar el futuro. |
+| **🎨 Storytelling** | Diseño visualizaciones avanzadas para que los datos hablen el idioma del negocio. |
+
+---
 
 ## 🛠️ Tecnologías y Herramientas
 

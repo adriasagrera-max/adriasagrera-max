@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrià Sagrera 👋
 
-**Economista | Especialista en Business Intelligence**  
+**Economista | Especialista en Business Intelligence (BI)**  
 *Convierto el ruido de los datos en historias con impacto estratégico.*
 
 ---
@@ -36,17 +36,9 @@
 
 ---
 
-## 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&langs_count=7&theme=nord&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=nord&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contacto
 * [LinkedIn]([www.linkedin.com/in/adriasagrera])
 * [Email](mailto:adriasagrera@gmail.com)
 
-🚀 *“Activamente construyendo y puliendo nuevos desarrollos. ¡Sígueme para no perderte nada!”*
+🚀 *“Activamente subo y actualizo proyectos. ¡Sígueme para no perderte nada!”*

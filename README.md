@@ -41,4 +41,4 @@
 * [LinkedIn]([www.linkedin.com/in/adriasagrera])
 * [Email](mailto:adriasagrera@gmail.com)
 
-🚀 *“Activamente subo y actualizo proyectos. ¡Sígueme para no perderte nada!”*
+🚀 *“Activamente actualizo y subo nuevos proyectos. ¡Sígueme para no perderte nada!”*

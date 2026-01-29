@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Programas y Herramientas
 
 ### 📊 Lenguajes de programación
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)

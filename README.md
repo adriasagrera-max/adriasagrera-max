@@ -1,6 +1,6 @@
 # ¡Hola! Soy Adrià Sagrera 👋
 
-**📊 Economista | 💡 Especialista en Business Intelligence (BI) | 💻 Data Analyst**
+**📊 Economista | 💡 Especializado en Business Intelligence (BI) | 💻 Data Analyst**
 
 *Convierto el ruido de los datos en historias con impacto estratégico.*
 
